@@ -1,2 +1,3 @@
-this is my first git resiportory 2 and github is good site
+this is my first git resiportory 2 and github is good site\
+hey this is kush
 
